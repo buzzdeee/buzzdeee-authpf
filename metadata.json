@@ -7,8 +7,7 @@
   "source": "https://github.com/buzzdeee/buzzdeee-authpf.git",
   "project_page": "https://github.com/buzzdeee/buzzdeee-authpf",
   "issues_url": "https://github.com/buzzdeee/buzzdeee-authpf/issues",
-  "dependencies": [
-  ],
+  "dependencies": [ ],
   "operatingsystem_support": [
     {
       "operatingsystem": "OpenBSD",
@@ -20,7 +19,6 @@
   "tags": [
     "OpenBSD",
     "firewall",
-    "PF",
+    "PF"
   ]
 }
-
